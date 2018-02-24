@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews>
+	<review itemId="w01">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>5</rating>
+        <date>2017-10-11</date>
+        <reviewText>Watch works really great and battery is longer than I thought.</reviewText>
+        <reviewZipCode>60616</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="w07">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>4</rating>
+        <date>2017-10-08</date>
+        <reviewText>Watch works ok, but battery time is a little short.</reviewText>
+        <reviewZipCode>60616</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="e01">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>4</rating>
+        <date>2017-10-11</date>
+        <reviewText>Price is very worth </reviewText>
+        <reviewZipCode>60610</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="s07">  
+        <username>retailer</username>  
+        <age>27</age>
+        <gender>f</gender>
+        <occupation>Retailer</occupation>
+        <rating>3</rating>
+        <date>2017-10-11</date>
+        <reviewText>Sound is great, but the lighting when playing is not.</reviewText>
+        <reviewZipCode>10025</reviewZipCode>
+        <reviewCity>New York</reviewCity>
+        <reviewState>New York</reviewState>
+    </review>
+	<review itemId="w01">  
+        <username>retailer</username>  
+        <age>27</age>
+        <gender>f</gender>
+        <occupation>Retailer</occupation>
+        <rating>4</rating>
+        <date>2017-10-11</date>
+        <reviewText>Watch is fantastic, but not water-proof</reviewText>
+        <reviewZipCode>10025</reviewZipCode>
+        <reviewCity>New York</reviewCity>
+        <reviewState>New York</reviewState>
+    </review>
+	<review itemId="w01">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>5</rating>
+        <date>2017-10-11</date>
+        <reviewText>I like this apple watch more than moto 360</reviewText>
+        <reviewZipCode>90005</reviewZipCode>
+        <reviewCity>Los Angeles</reviewCity>
+        <reviewState>California</reviewState>
+    </review>
+	<review itemId="l10">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>5</rating>
+        <date>2017-11-1</date>
+        <reviewText>Fast, and worth buying</reviewText>
+        <reviewZipCode>90005</reviewZipCode>
+        <reviewCity>Los Angeles</reviewCity>
+        <reviewState>California</reviewState>
+    </review>
+	<review itemId="w07">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>3</rating>
+        <date>2017-10-11</date>
+        <reviewText>Not water-proof</reviewText>
+        <reviewZipCode>33018</reviewZipCode>
+        <reviewCity>Miami</reviewCity>
+        <reviewState>Florida</reviewState>
+    </review>
+	<review itemId="s07">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>5</rating>
+        <date>2017-10-11</date>
+        <reviewText>So worth buying</reviewText>
+        <reviewZipCode>33019</reviewZipCode>
+        <reviewCity>Miami</reviewCity>
+        <reviewState>Florida</reviewState>
+    </review>
+	<review itemId="l10">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>2</rating>
+        <date>2017-10-11</date>
+        <reviewText>Battery is bad</reviewText>
+        <reviewZipCode>94016</reviewZipCode>
+        <reviewCity>San Francisco</reviewCity>
+        <reviewState>California</reviewState>
+    </review>
+	<review itemId="h10">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>4</rating>
+        <date>2017-10-11</date>
+        <reviewText>Very good.</reviewText>
+        <reviewZipCode>94144</reviewZipCode>
+        <reviewCity>San Francisco</reviewCity>
+        <reviewState>California</reviewState>
+    </review>
+	<review itemId="p10">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>3</rating>
+        <date>2017-10-11</date>
+        <reviewText>A normal phone, battery is ok, not water-proof</reviewText>
+        <reviewZipCode>46253</reviewZipCode>
+        <reviewCity>Indianapolis</reviewCity>
+        <reviewState>Indiana</reviewState>
+    </review>
+	<review itemId="w02">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>2</rating>
+        <date>2017-10-11</date>
+        <reviewText>Sluggish system</reviewText>
+        <reviewZipCode>46253</reviewZipCode>
+        <reviewCity>Indianapolis</reviewCity>
+        <reviewState>Indiana</reviewState>
+    </review>
+	<review itemId="w10">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>3</rating>
+        <date>2017-10-12</date>
+        <reviewText>Kinda expensive for the quality, not worth</reviewText>
+        <reviewZipCode>60008</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="e01">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>5</rating>
+        <date>2017-10-11</date>
+        <reviewText>So fast</reviewText>
+        <reviewZipCode>60008</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="p01">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>5</rating>
+        <date>2017-10-11</date>
+        <reviewText>I am a huge iphone fan. I love every generate iphone, they are fast and rarely frozen</reviewText>
+        <reviewZipCode>10025</reviewZipCode>
+        <reviewCity>New York</reviewCity>
+        <reviewState>New York</reviewState>
+    </review>
+	<review itemId="l01">  
+        <username>manager</username>  
+        <age>38</age>
+        <gender>m</gender>
+        <occupation>Store manager</occupation>
+        <rating>5</rating>
+        <date>2017-10-11</date>
+        <reviewText>Surprisingly great.</reviewText>
+        <reviewZipCode>10012</reviewZipCode>
+        <reviewCity>New York</reviewCity>
+        <reviewState>New York</reviewState>
+    </review>
+	<review itemId="w02">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>3</rating>
+        <date>2017-10-11</date>
+        <reviewText>Just ok</reviewText>
+        <reviewZipCode>02108</reviewZipCode>
+        <reviewCity>Boston</reviewCity>
+        <reviewState>Massachusetts</reviewState>
+    </review>
+	<review itemId="p01">  
+        <username>qq</username>  
+        <age>23</age>
+        <gender>f</gender>
+        <occupation>Teacher</occupation>
+        <rating>4</rating>
+        <date>2017-10-12</date>
+        <reviewText>Almost perfect, but the surface got discolored</reviewText>
+        <reviewZipCode>02111</reviewZipCode>
+        <reviewCity>Boston</reviewCity>
+        <reviewState>Massachusetts</reviewState>
+    </review>
+	<review itemId="p01">  
+        <username>bob</username>  
+        <age>32</age>
+        <gender>m</gender>
+        <occupation>Engineer</occupation>
+        <rating>4</rating>
+        <date>2017-10-12</date>
+        <reviewText>I really like it, but a little expensive</reviewText>
+        <reviewZipCode>10023</reviewZipCode>
+        <reviewCity>New York</reviewCity>
+        <reviewState>New York</reviewState>
+    </review>
+	<review itemId="l10">  
+        <username>qq</username>  
+        <age>20</age>
+        <gender>f</gender>
+        <occupation>Student</occupation>
+        <rating>5</rating>
+        <date>2017-10-14</date>
+        <reviewText>Awesome laptop, fast, no freezing system and light-weighted</reviewText>
+        <reviewZipCode>77007</reviewZipCode>
+        <reviewCity>Houston</reviewCity>
+        <reviewState>Texas</reviewState>
+    </review>
+	<review itemId="w07">  
+        <username>qq</username>  
+        <age>20</age>
+        <gender>f</gender>
+        <occupation>Student</occupation>
+        <rating>3</rating>
+        <date>2017-10-17</date>
+        <reviewText>This watch is fantastic</reviewText>
+        <reviewZipCode>33013</reviewZipCode>
+        <reviewCity>Miami</reviewCity>
+        <reviewState>Florida</reviewState>
+    </review>
+	<review itemId="s10">  
+        <username>qq</username>  
+        <age>20</age>
+        <gender>f</gender>
+        <occupation>Student</occupation>
+        <rating>5</rating>
+        <date>2017-10-17</date>
+        <reviewText>The speaker is very good and fast</reviewText>
+        <reviewZipCode>33013</reviewZipCode>
+        <reviewCity>Miami</reviewCity>
+        <reviewState>Florida</reviewState>
+    </review>
+	<review itemId="s10">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>4</rating>
+        <date>2017-10-17</date>
+        <reviewText>The speaker is ok</reviewText>
+        <reviewZipCode>33013</reviewZipCode>
+        <reviewCity>Miami</reviewCity>
+        <reviewState>Florida</reviewState>
+    </review>
+	<review itemId="w01">  
+        <username>qq</username>  
+        <age>20</age>
+        <gender>f</gender>
+        <occupation>Student</occupation>
+        <rating>4</rating>
+        <date>2017-10-17</date>
+        <reviewText>I love the watch, but sometime it freezes.</reviewText>
+        <reviewZipCode>60616</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="s10">  
+        <username>bob</username>  
+        <age>21</age>
+        <gender>m</gender>
+        <occupation>Student</occupation>
+        <rating>3</rating>
+        <date>2017-10-17</date>
+        <reviewText>I would love to buy another one, sometimes it is noisy</reviewText>
+        <reviewZipCode>60611</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="s09">  
+        <username>qq</username>  
+        <age>20</age>
+        <gender>f</gender>
+        <occupation>Student</occupation>
+        <rating>4</rating>
+        <date>2017-10-31</date>
+        <reviewText>It is great</reviewText>
+        <reviewZipCode>07030</reviewZipCode>
+        <reviewCity>Jersey City</reviewCity>
+        <reviewState>New Jersey</reviewState>
+    </review>
+	<review itemId="w02">  
+        <username>qq</username>  
+        <age>20</age>
+        <gender>f</gender>
+        <occupation>Student</occupation>
+        <rating>2</rating>
+        <date>2017-10-31</date>
+        <reviewText>Rubbish, do not buy it</reviewText>
+        <reviewZipCode>07030</reviewZipCode>
+        <reviewCity>Jersey City</reviewCity>
+        <reviewState>New Jersey</reviewState>
+    </review>
+	<review itemId="s02">  
+        <username>manager</username>  
+        <age>44</age>
+        <gender>m</gender>
+        <occupation>Store Manager</occupation>
+        <rating>5</rating>
+        <date>2017-11-1</date>
+        <reviewText>Good</reviewText>
+        <reviewZipCode>33125</reviewZipCode>
+        <reviewCity>Miami</reviewCity>
+        <reviewState>Florida</reviewState>
+    </review>
+	<review itemId="w08">  
+        <username>manager</username>  
+        <age>44</age>
+        <gender>m</gender>
+        <occupation>Store Manager</occupation>
+        <rating>5</rating>
+        <date>2017-11-1</date>
+        <reviewText>Water proof and very subtly designed</reviewText>
+        <reviewZipCode>60616</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="h10">  
+        <username>manager</username>  
+        <age>44</age>
+        <gender>m</gender>
+        <occupation>Store Manager</occupation>
+        <rating>5</rating>
+        <date>2017-11-1</date>
+        <reviewText>Fits me very well and works great when sporting</reviewText>
+        <reviewZipCode>60616</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="p08">  
+        <username>manager</username>  
+        <age>44</age>
+        <gender>m</gender>
+        <occupation>Store Manager</occupation>
+        <rating>5</rating>
+        <date>2017-11-1</date>
+        <reviewText>I am a huge motorola fan</reviewText>
+        <reviewZipCode>60616</reviewZipCode>
+        <reviewCity>Chicago</reviewCity>
+        <reviewState>Illinois</reviewState>
+    </review>
+	<review itemId="e08">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>5</rating>
+        <date>2017-11-1</date>
+        <reviewText>Great</reviewText>
+        <reviewZipCode>10025</reviewZipCode>
+        <reviewCity>New York</reviewCity>
+        <reviewState>New York</reviewState>
+    </review>
+	<review itemId="w10">  
+        <username>andy</username>  
+        <age>28</age>
+        <gender>m</gender>
+        <occupation>Licensed salesperson</occupation>
+        <rating>5</rating>
+        <date>2017-11-1</date>
+        <reviewText>i like the watch very much</reviewText>
+        <reviewZipCode>33013</reviewZipCode>
+        <reviewCity>Miami</reviewCity>
+        <reviewState>Florida</reviewState>
+    </review>
+</reviews>
